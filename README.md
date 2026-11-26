@@ -39,3 +39,5 @@ Set the MCP host's command to `node` and its first argument to the absolute path
 Results include links to the relevant card entries or reading page. The server does not collect or transmit questions or personal information. A reading page opens the separate web experience.
 
 Browse the reference guides in [English](https://www.unmei-tarot.com/en/tarot-card-meanings) or [日本語](https://www.unmei-tarot.com/ja/tarot-card-ichiran).
+
+For paper journaling, download the [Japanese three-card tarot worksheet](https://github.com/TJLDC/unmei-tarot-integrations/tree/main/printables#readme).
