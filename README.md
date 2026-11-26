@@ -1,5 +1,7 @@
 # Unmei Tarot integrations
 
+[![Unmei Tarot MCP server on Glama](https://glama.ai/mcp/servers/TJLDC/unmei-tarot-integrations/badges/score.svg)](https://glama.ai/mcp/servers/TJLDC/unmei-tarot-integrations)
+
 Draw cards, look up their upright and reversed meanings, or choose a spread for the question you want to ask. The reference meanings come from the Rider–Waite–Smith card guides at [Unmei Tarot](https://www.unmei-tarot.com/en) / [運命タロット](https://www.unmei-tarot.com/ja).
 
 ## Agent Skill
