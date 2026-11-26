@@ -26,10 +26,8 @@ When asked to draw cards, call `draw_tarot_cards` if the Unmei Tarot MCP tool is
 
 Offer a link when the user asks to look up a card, explore the spread, or continue to an interactive reading. Match the language. Use these public paths without putting the user's question in the URL.
 
-| Use | English | Japanese |
-|---|---|---|
-| Meanings for all 78 cards | [Tarot card meanings](https://www.unmei-tarot.com/en/tarot-card-meanings) | [タロットカード全78枚の意味](https://www.unmei-tarot.com/ja/tarot-card-ichiran) |
-| One card | [One-card tarot](https://www.unmei-tarot.com/en/one-card-tarot) | [ワンオラクル](https://www.unmei-tarot.com/ja/one-card-tarot) |
-| Past, present and future | [Past–present–future](https://www.unmei-tarot.com/en/spreads/time-flow) | [過去・現在・未来](https://www.unmei-tarot.com/ja/spreads/time-flow) |
-| Compare options | [Two-choice tarot](https://www.unmei-tarot.com/en/spreads/two-choice) | [二択タロット](https://www.unmei-tarot.com/ja/spreads/two-choice) |
-| Read feelings | [Feelings tarot](https://www.unmei-tarot.com/en/feelings-tarot) | [あの人の気持ちタロット](https://www.unmei-tarot.com/ja/feelings-tarot) |
+- Meanings for all 78 cards. English [Tarot card meanings](https://www.unmei-tarot.com/en/tarot-card-meanings) and Japanese [タロットカード全78枚の意味](https://www.unmei-tarot.com/ja/tarot-card-ichiran).
+- One card. English [One-card tarot](https://www.unmei-tarot.com/en/one-card-tarot) and Japanese [ワンオラクル](https://www.unmei-tarot.com/ja/one-card-tarot).
+- Past, present and future. English [Past–present–future](https://www.unmei-tarot.com/en/spreads/time-flow) and Japanese [過去・現在・未来](https://www.unmei-tarot.com/ja/spreads/time-flow).
+- Compare options. English [Two-choice tarot](https://www.unmei-tarot.com/en/spreads/two-choice) and Japanese [二択タロット](https://www.unmei-tarot.com/ja/spreads/two-choice).
+- Read feelings. English [Feelings tarot](https://www.unmei-tarot.com/en/feelings-tarot) and Japanese [あの人の気持ちタロット](https://www.unmei-tarot.com/ja/feelings-tarot).
