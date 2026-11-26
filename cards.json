@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "the-fool",
+    "en": {
+      "name": "The Fool",
+      "upright": "New beginnings, freedom, possibility",
+      "reversed": "Carelessness, poor planning, hesitation",
+      "url": "https://www.unmei-tarot.com/en/articles/the-fool-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "愚者",
+      "upright": "自由、新しい旅、未知の可能性",
+      "reversed": "無計画、無責任、一歩を踏み出せない",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-fool-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-magician",
+    "en": {
+      "name": "The Magician",
+      "upright": "Initiative, skill, making an idea real",
+      "reversed": "Scattered effort, empty words, untapped ability",
+      "url": "https://www.unmei-tarot.com/en/articles/the-magician-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "魔術師",
+      "upright": "始動、才能を使う、意志を形にする",
+      "reversed": "準備不足、口先だけ、空回り",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-magician-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-high-priestess",
+    "en": {
+      "name": "The High Priestess",
+      "upright": "Intuition, patience, private knowledge",
+      "reversed": "Overthinking, assumptions, emotional distance",
+      "url": "https://www.unmei-tarot.com/en/articles/the-high-priestess-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "女教皇",
+      "upright": "洞察、静観、内に秘めた思い",
+      "reversed": "神経質、思い込み、心を閉ざす",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-high-priestess-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-empress",
+    "en": {
+      "name": "The Empress",
+      "upright": "Care, abundance, creativity coming to fruition",
+      "reversed": "Overgiving, dependence, feeling unfulfilled",
+      "url": "https://www.unmei-tarot.com/en/articles/the-empress-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "女帝",
+      "upright": "愛情、豊かさ、育てたものの実り",
+      "reversed": "甘えすぎ、過保護、満たされなさ",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-empress-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-emperor",
+    "en": {
+      "name": "The Emperor",
+      "upright": "Structure, responsibility, steady leadership",
+      "reversed": "Control, rigidity, avoiding responsibility",
+      "url": "https://www.unmei-tarot.com/en/articles/the-emperor-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "皇帝",
+      "upright": "責任、統率、安定した基盤",
+      "reversed": "支配、頑固、責任を引き受けない",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-emperor-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-hierophant",
+    "en": {
+      "name": "The Hierophant",
+      "upright": "Shared values, trust, guidance",
+      "reversed": "Rigid rules, imposed beliefs, a values gap",
+      "url": "https://www.unmei-tarot.com/en/articles/the-hierophant-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "教皇〈法王〉",
+      "upright": "信頼、教え、常識や約束",
+      "reversed": "形式への固執、押しつけ、価値観の隔たり",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-hierophant-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-lovers",
+    "en": {
+      "name": "The Lovers",
+      "upright": "Attraction, harmony, a wholehearted choice",
+      "reversed": "Mixed feelings, misalignment, temptation",
+      "url": "https://www.unmei-tarot.com/en/articles/the-lovers-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "恋人〈恋人たち〉",
+      "upright": "惹かれ合う、調和、心からの選択",
+      "reversed": "迷い、不一致、誘惑に流される",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-lovers-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-chariot",
+    "en": {
+      "name": "The Chariot",
+      "upright": "Momentum, determination, overcoming resistance",
+      "reversed": "Rushing ahead, conflicting aims, stalled progress",
+      "url": "https://www.unmei-tarot.com/en/articles/the-chariot-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "戦車",
+      "upright": "前進、意志、困難を乗り越える",
+      "reversed": "暴走、足並みの乱れ、進めない",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-chariot-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "strength",
+    "en": {
+      "name": "Strength",
+      "upright": "Courage, patience, compassionate self-control",
+      "reversed": "Self-doubt, strained effort, being ruled by emotion",
+      "url": "https://www.unmei-tarot.com/en/articles/strength-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "力",
+      "upright": "忍耐、思いやり、感情を扱う強さ",
+      "reversed": "自信の低下、気負い、感情に負ける",
+      "url": "https://www.unmei-tarot.com/ja/articles/strength-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-hermit",
+    "en": {
+      "name": "The Hermit",
+      "upright": "Reflection, careful judgment, inner searching",
+      "reversed": "Isolation, rumination, withdrawing too far",
+      "url": "https://www.unmei-tarot.com/en/articles/the-hermit-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "隠者",
+      "upright": "探求、一人で考える、慎重な判断",
+      "reversed": "孤立、考えすぎ、外とのつながりを断つ",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-hermit-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-wheel-of-fortune",
+    "en": {
+      "name": "Wheel of Fortune",
+      "upright": "A turning point, timing, opportunity",
+      "reversed": "Delays, resisting change, a stagnant cycle",
+      "url": "https://www.unmei-tarot.com/en/articles/the-wheel-of-fortune-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "運命の輪",
+      "upright": "転機、好機、巡り合わせ",
+      "reversed": "時機のずれ、流れへの抵抗、停滞",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-wheel-of-fortune-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "justice",
+    "en": {
+      "name": "Justice",
+      "upright": "Fairness, accountability, a considered decision",
+      "reversed": "Bias, unequal terms, avoiding consequences",
+      "url": "https://www.unmei-tarot.com/en/articles/justice-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "正義",
+      "upright": "公平、釣り合い、責任ある決断",
+      "reversed": "不公平、偏った判断、責任の不均衡",
+      "url": "https://www.unmei-tarot.com/ja/articles/justice-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-hanged-man",
+    "en": {
+      "name": "The Hanged Man",
+      "upright": "A pause, a new perspective, chosen patience",
+      "reversed": "Fruitless sacrifice, delay, refusing to let go",
+      "url": "https://www.unmei-tarot.com/en/articles/the-hanged-man-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "吊るされた男",
+      "upright": "待機、献身、見方を変える",
+      "reversed": "報われない我慢、徒労、停滞への固執",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-hanged-man-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "death",
+    "en": {
+      "name": "Death",
+      "upright": "An ending, transition, making room for change",
+      "reversed": "Clinging to the past, resisting a necessary shift",
+      "url": "https://www.unmei-tarot.com/en/articles/death-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "死神",
+      "upright": "終わり、区切り、次の段階への移行",
+      "reversed": "終わらせられない、変化への抵抗",
+      "url": "https://www.unmei-tarot.com/ja/articles/death-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "temperance",
+    "en": {
+      "name": "Temperance",
+      "upright": "Balance, cooperation, a workable pace",
+      "reversed": "Extremes, friction, mismatched timing",
+      "url": "https://www.unmei-tarot.com/en/articles/temperance-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "節制",
+      "upright": "調整、交流、無理のない調和",
+      "reversed": "不調和、極端さ、ペースのずれ",
+      "url": "https://www.unmei-tarot.com/ja/articles/temperance-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-devil",
+    "en": {
+      "name": "The Devil",
+      "upright": "Desire, attachment, a binding pattern",
+      "reversed": "Breaking free, seeing a dependency clearly",
+      "url": "https://www.unmei-tarot.com/en/articles/the-devil-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "悪魔",
+      "upright": "欲望、依存、断ち切りにくい関係",
+      "reversed": "束縛からの解放、依存に気づく",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-devil-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-tower",
+    "en": {
+      "name": "The Tower",
+      "upright": "Sudden change, a shaken assumption, revelation",
+      "reversed": "Prolonged tension, resisting what must change",
+      "url": "https://www.unmei-tarot.com/en/articles/the-tower-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "塔",
+      "upright": "突然の変化、前提の崩壊、衝撃",
+      "reversed": "危機の長期化、変化への抵抗",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-tower-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-star",
+    "en": {
+      "name": "The Star",
+      "upright": "Hope, renewal, a clearer horizon",
+      "reversed": "Discouragement, lost confidence, an ideal-real gap",
+      "url": "https://www.unmei-tarot.com/en/articles/the-star-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "星",
+      "upright": "希望、回復、未来の見通し",
+      "reversed": "失望、自信を失う、理想との隔たり",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-star-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-moon",
+    "en": {
+      "name": "The Moon",
+      "upright": "Uncertainty, intuition, hidden circumstances",
+      "reversed": "Confusion lifting, an illusion or misunderstanding exposed",
+      "url": "https://www.unmei-tarot.com/en/articles/the-moon-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "月",
+      "upright": "不透明さ、不安、まだ見えない事情",
+      "reversed": "迷いが晴れ始める、誤解に気づく",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-moon-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-sun",
+    "en": {
+      "name": "The Sun",
+      "upright": "Joy, openness, visible success",
+      "reversed": "Trouble enjoying a win, delays, forced positivity",
+      "url": "https://www.unmei-tarot.com/en/articles/the-sun-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "太陽",
+      "upright": "喜び、明るい交流、成果",
+      "reversed": "喜びを受け取れない、遅れ、無理な明るさ",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-sun-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "judgement",
+    "en": {
+      "name": "Judgement",
+      "upright": "Renewal, a wake-up call, answering the past",
+      "reversed": "Avoiding a decision, regret, ignoring a call",
+      "url": "https://www.unmei-tarot.com/en/articles/judgement-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "審判",
+      "upright": "再評価、目覚め、再出発",
+      "reversed": "決断の先延ばし、後悔、呼びかけを避ける",
+      "url": "https://www.unmei-tarot.com/ja/articles/judgement-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "the-world",
+    "en": {
+      "name": "The World",
+      "upright": "Completion, achievement, a full circle",
+      "reversed": "An unfinished step, a delayed ending",
+      "url": "https://www.unmei-tarot.com/en/articles/the-world-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "世界",
+      "upright": "完成、達成、一つの区切り",
+      "reversed": "未完成、あと一歩、終わりを迎えられない",
+      "url": "https://www.unmei-tarot.com/ja/articles/the-world-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "ace-of-wands",
+    "en": {
+      "name": "Ace of Wands",
+      "upright": "A spark of motivation, a new challenge",
+      "reversed": "Fading enthusiasm, a slow start",
+      "url": "https://www.unmei-tarot.com/en/articles/ace-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドのエース〈A〉",
+      "upright": "意欲の芽生え、新しい挑戦",
+      "reversed": "やる気が続かない、始動の遅れ",
+      "url": "https://www.unmei-tarot.com/ja/articles/ace-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "two-of-wands",
+    "en": {
+      "name": "Two of Wands",
+      "upright": "Planning, choosing a direction, wider horizons",
+      "reversed": "Indecision, staying in the safe zone",
+      "url": "https://www.unmei-tarot.com/en/articles/two-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドの2",
+      "upright": "構想、進路を決める、視野を広げる",
+      "reversed": "決められない、安全圏を離れられない",
+      "url": "https://www.unmei-tarot.com/ja/articles/two-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "three-of-wands",
+    "en": {
+      "name": "Three of Wands",
+      "upright": "Expansion, collaboration, a plan in motion",
+      "reversed": "Overlooking obstacles, delayed results",
+      "url": "https://www.unmei-tarot.com/en/articles/three-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドの3",
+      "upright": "展望、協力、動き始めた計画",
+      "reversed": "見通しの甘さ、成果の遅れ",
+      "url": "https://www.unmei-tarot.com/ja/articles/three-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "four-of-wands",
+    "en": {
+      "name": "Four of Wands",
+      "upright": "Belonging, celebration, a welcome milestone",
+      "reversed": "Unsettled foundations, celebration postponed",
+      "url": "https://www.unmei-tarot.com/en/articles/four-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドの4",
+      "upright": "祝福、居場所、落ち着く節目",
+      "reversed": "安定の揺らぎ、祝う時機のずれ",
+      "url": "https://www.unmei-tarot.com/ja/articles/four-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "five-of-wands",
+    "en": {
+      "name": "Five of Wands",
+      "upright": "Competition, clashing views, spirited challenge",
+      "reversed": "A conflict escalating, avoiding all disagreement",
+      "url": "https://www.unmei-tarot.com/en/articles/five-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドの5",
+      "upright": "競争、意見の衝突、切磋琢磨",
+      "reversed": "争いのこじれ、対立を避けすぎる",
+      "url": "https://www.unmei-tarot.com/ja/articles/five-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "six-of-wands",
+    "en": {
+      "name": "Six of Wands",
+      "upright": "Recognition, a win, earned confidence",
+      "reversed": "Feeling overlooked, overconfidence",
+      "url": "https://www.unmei-tarot.com/en/articles/six-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドの6",
+      "upright": "勝利、承認、努力への評価",
+      "reversed": "評価が得られない、過信",
+      "url": "https://www.unmei-tarot.com/ja/articles/six-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "seven-of-wands",
+    "en": {
+      "name": "Seven of Wands",
+      "upright": "Holding your ground, meeting resistance",
+      "reversed": "Feeling overwhelmed, losing your position",
+      "url": "https://www.unmei-tarot.com/en/articles/seven-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドの7",
+      "upright": "立場を守る、抵抗に立ち向かう",
+      "reversed": "圧倒される、守り切れない",
+      "url": "https://www.unmei-tarot.com/ja/articles/seven-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "eight-of-wands",
+    "en": {
+      "name": "Eight of Wands",
+      "upright": "Fast progress, news, a message arriving",
+      "reversed": "Miscommunication, delay, moving too quickly",
+      "url": "https://www.unmei-tarot.com/en/articles/eight-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドの8",
+      "upright": "急展開、連絡、物事が速く進む",
+      "reversed": "行き違い、遅延、急ぎすぎ",
+      "url": "https://www.unmei-tarot.com/ja/articles/eight-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "nine-of-wands",
+    "en": {
+      "name": "Nine of Wands",
+      "upright": "Staying alert, resilience, one last effort",
+      "reversed": "Exhaustion, guardedness, nearing a limit",
+      "url": "https://www.unmei-tarot.com/en/articles/nine-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドの9",
+      "upright": "警戒、備え、最後まで粘る",
+      "reversed": "疲弊、過度な警戒、限界",
+      "url": "https://www.unmei-tarot.com/ja/articles/nine-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "ten-of-wands",
+    "en": {
+      "name": "Ten of Wands",
+      "upright": "Heavy responsibility, taking on too much",
+      "reversed": "Need to put something down, abandoning duties",
+      "url": "https://www.unmei-tarot.com/en/articles/ten-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドの10",
+      "upright": "責任、負担、抱えすぎ",
+      "reversed": "荷を下ろす必要、責任を放棄する",
+      "url": "https://www.unmei-tarot.com/ja/articles/ten-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "page-of-wands",
+    "en": {
+      "name": "Page of Wands",
+      "upright": "Curiosity, exciting news, eagerness to try",
+      "reversed": "Restlessness, inexperience, scattered enthusiasm",
+      "url": "https://www.unmei-tarot.com/en/articles/page-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドのペイジ〈従者〉",
+      "upright": "好奇心、知らせ、挑戦への期待",
+      "reversed": "気まぐれ、経験不足、意欲の空回り",
+      "url": "https://www.unmei-tarot.com/ja/articles/page-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "knight-of-wands",
+    "en": {
+      "name": "Knight of Wands",
+      "upright": "Bold action, adventure, a passionate approach",
+      "reversed": "Impulsiveness, impatience, quickly cooling interest",
+      "url": "https://www.unmei-tarot.com/en/articles/knight-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドのナイト〈騎士〉",
+      "upright": "行動力、冒険、勢いのある接近",
+      "reversed": "衝動、短気、熱が冷めやすい",
+      "url": "https://www.unmei-tarot.com/ja/articles/knight-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "queen-of-wands",
+    "en": {
+      "name": "Queen of Wands",
+      "upright": "Confidence, warmth, inspiring others",
+      "reversed": "Jealousy, insecurity, making it all about you",
+      "url": "https://www.unmei-tarot.com/en/articles/queen-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドのクイーン〈女王〉",
+      "upright": "自信、魅力、人を励ます力",
+      "reversed": "嫉妬、気負い、独りよがり",
+      "url": "https://www.unmei-tarot.com/ja/articles/queen-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "king-of-wands",
+    "en": {
+      "name": "King of Wands",
+      "upright": "Leadership, putting a vision into practice",
+      "reversed": "Domineering, impatient, insisting on your own plan",
+      "url": "https://www.unmei-tarot.com/en/articles/king-of-wands-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ワンドのキング〈王〉",
+      "upright": "指導力、構想を実行する、情熱",
+      "reversed": "強引、短気、自分の方針を押しつける",
+      "url": "https://www.unmei-tarot.com/ja/articles/king-of-wands-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "ace-of-cups",
+    "en": {
+      "name": "Ace of Cups",
+      "upright": "New affection, emotional openness, inspiration",
+      "reversed": "Holding feelings in, emotional depletion",
+      "url": "https://www.unmei-tarot.com/en/articles/ace-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップのエース〈A〉",
+      "upright": "愛情の始まり、感動、受け入れる心",
+      "reversed": "気持ちを出せない、感情の枯渇",
+      "url": "https://www.unmei-tarot.com/ja/articles/ace-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "two-of-cups",
+    "en": {
+      "name": "Two of Cups",
+      "upright": "Mutual understanding, an equal bond, agreement",
+      "reversed": "Mixed signals, an uneven connection",
+      "url": "https://www.unmei-tarot.com/en/articles/two-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップの2",
+      "upright": "気持ちが通う、対等な関係、合意",
+      "reversed": "すれ違い、関係の不均衡",
+      "url": "https://www.unmei-tarot.com/ja/articles/two-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "three-of-cups",
+    "en": {
+      "name": "Three of Cups",
+      "upright": "Friendship, shared joy, community support",
+      "reversed": "Cliques, overindulgence, tension among friends",
+      "url": "https://www.unmei-tarot.com/en/articles/three-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップの3",
+      "upright": "友情、喜びの共有、仲間の支え",
+      "reversed": "内輪への依存、遊びすぎ、仲間との不和",
+      "url": "https://www.unmei-tarot.com/ja/articles/three-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "four-of-cups",
+    "en": {
+      "name": "Four of Cups",
+      "upright": "Discontent, apathy, missing an offer",
+      "reversed": "Renewed interest, beginning to re-engage",
+      "url": "https://www.unmei-tarot.com/en/articles/four-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップの4",
+      "upright": "倦怠、不満、差し出されたものに気づかない",
+      "reversed": "新しい関心、停滞から動き出す",
+      "url": "https://www.unmei-tarot.com/ja/articles/four-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "five-of-cups",
+    "en": {
+      "name": "Five of Cups",
+      "upright": "Loss, regret, focusing on what is gone",
+      "reversed": "Noticing what remains, acceptance, recovery",
+      "url": "https://www.unmei-tarot.com/en/articles/five-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップの5",
+      "upright": "喪失感、後悔、失ったものを見る",
+      "reversed": "残るつながりに気づく、受容、回復",
+      "url": "https://www.unmei-tarot.com/ja/articles/five-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "six-of-cups",
+    "en": {
+      "name": "Six of Cups",
+      "upright": "Nostalgia, kindness, a familiar bond",
+      "reversed": "Clinging to the past, moving beyond it",
+      "url": "https://www.unmei-tarot.com/en/articles/six-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップの6",
+      "upright": "思い出、懐かしさ、素直な親しみ",
+      "reversed": "過去への執着、過去を離れて進む局面",
+      "url": "https://www.unmei-tarot.com/ja/articles/six-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "seven-of-cups",
+    "en": {
+      "name": "Seven of Cups",
+      "upright": "Fantasy, many choices, scattered desires",
+      "reversed": "Seeing clearly, narrowing your options",
+      "url": "https://www.unmei-tarot.com/en/articles/seven-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップの7",
+      "upright": "空想、選択肢、決められない願望",
+      "reversed": "現実を見て絞り込む、幻想が晴れる",
+      "url": "https://www.unmei-tarot.com/ja/articles/seven-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "eight-of-cups",
+    "en": {
+      "name": "Eight of Cups",
+      "upright": "Leaving what no longer fulfills you, searching",
+      "reversed": "Unable to leave, torn between staying and going",
+      "url": "https://www.unmei-tarot.com/en/articles/eight-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップの8",
+      "upright": "満たされない場を離れる、探求",
+      "reversed": "離れ切れない、去るか戻るか迷う",
+      "url": "https://www.unmei-tarot.com/ja/articles/eight-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "nine-of-cups",
+    "en": {
+      "name": "Nine of Cups",
+      "upright": "Satisfaction, a wish fulfilled, enjoyment",
+      "reversed": "Taking more than you need, a hollow win",
+      "url": "https://www.unmei-tarot.com/en/articles/nine-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップの9",
+      "upright": "満足、願いが実る、充足感",
+      "reversed": "欲張り、表面的な満足、物足りなさ",
+      "url": "https://www.unmei-tarot.com/ja/articles/nine-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "ten-of-cups",
+    "en": {
+      "name": "Ten of Cups",
+      "upright": "Shared happiness, belonging, family harmony",
+      "reversed": "Friction at home, an ideal that does not fit",
+      "url": "https://www.unmei-tarot.com/en/articles/ten-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップの10",
+      "upright": "喜びを分かち合う、家族の調和",
+      "reversed": "理想の家庭とのずれ、身近な人との不和",
+      "url": "https://www.unmei-tarot.com/ja/articles/ten-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "page-of-cups",
+    "en": {
+      "name": "Page of Cups",
+      "upright": "A sincere feeling, sensitivity, a touching message",
+      "reversed": "Emotional immaturity, oversensitivity, neediness",
+      "url": "https://www.unmei-tarot.com/en/articles/page-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップのペイジ〈従者〉",
+      "upright": "素直な好意、感受性、心動く知らせ",
+      "reversed": "甘え、傷つきやすさ、感情の未熟さ",
+      "url": "https://www.unmei-tarot.com/ja/articles/page-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "knight-of-cups",
+    "en": {
+      "name": "Knight of Cups",
+      "upright": "A heartfelt invitation, expressing affection",
+      "reversed": "Empty promises, moodiness, idealizing someone",
+      "url": "https://www.unmei-tarot.com/en/articles/knight-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップのナイト〈騎士〉",
+      "upright": "好意を伝える、誘い、思いを運ぶ",
+      "reversed": "期待させるだけ、気分任せ、理想化",
+      "url": "https://www.unmei-tarot.com/ja/articles/knight-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "queen-of-cups",
+    "en": {
+      "name": "Queen of Cups",
+      "upright": "Empathy, deep care, emotional understanding",
+      "reversed": "Overwhelm, dependence, giving too much",
+      "url": "https://www.unmei-tarot.com/en/articles/queen-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップのクイーン〈女王〉",
+      "upright": "共感、深い愛情、気持ちを受け止める",
+      "reversed": "感情にのまれる、依存、尽くしすぎ",
+      "url": "https://www.unmei-tarot.com/ja/articles/queen-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "king-of-cups",
+    "en": {
+      "name": "King of Cups",
+      "upright": "Emotional maturity, patience, generosity",
+      "reversed": "Emotional manipulation, suppression, volatility",
+      "url": "https://www.unmei-tarot.com/en/articles/king-of-cups-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "カップのキング〈王〉",
+      "upright": "感情の成熟、寛容、穏やかな対応",
+      "reversed": "感情を利用する、抑え込む、気分に左右される",
+      "url": "https://www.unmei-tarot.com/ja/articles/king-of-cups-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "ace-of-swords",
+    "en": {
+      "name": "Ace of Swords",
+      "upright": "Clarity, truth, a decisive breakthrough",
+      "reversed": "Confusion, cutting words, a flawed decision",
+      "url": "https://www.unmei-tarot.com/en/articles/ace-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードのエース〈A〉",
+      "upright": "明確な判断、真実、切り開く決意",
+      "reversed": "判断の混乱、言葉の攻撃性、誤った決断",
+      "url": "https://www.unmei-tarot.com/ja/articles/ace-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "two-of-swords",
+    "en": {
+      "name": "Two of Swords",
+      "upright": "A pause, balance, withholding judgment",
+      "reversed": "A stalemate breaks, uncertainty surfaces",
+      "url": "https://www.unmei-tarot.com/en/articles/two-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードの2",
+      "upright": "保留、均衡、判断材料を閉ざす",
+      "reversed": "均衡が崩れる、迷いが表面化する",
+      "url": "https://www.unmei-tarot.com/ja/articles/two-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "three-of-swords",
+    "en": {
+      "name": "Three of Swords",
+      "upright": "Heartbreak, painful clarity, separation",
+      "reversed": "Healing a hurt, keeping pain bottled up",
+      "url": "https://www.unmei-tarot.com/en/articles/three-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードの3",
+      "upright": "悲しみ、痛みを伴う理解、離別",
+      "reversed": "傷の回復、痛みを抱え込む",
+      "url": "https://www.unmei-tarot.com/ja/articles/three-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "four-of-swords",
+    "en": {
+      "name": "Four of Swords",
+      "upright": "Rest, a pause, taking space",
+      "reversed": "Returning to activity, being unable to rest",
+      "url": "https://www.unmei-tarot.com/en/articles/four-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードの4",
+      "upright": "休息、一時停止、距離を置く",
+      "reversed": "活動の再開、休み切れない",
+      "url": "https://www.unmei-tarot.com/ja/articles/four-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "five-of-swords",
+    "en": {
+      "name": "Five of Swords",
+      "upright": "Conflict, a costly win, self-interest",
+      "reversed": "Dealing with fallout, a hard reconciliation",
+      "url": "https://www.unmei-tarot.com/en/articles/five-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードの5",
+      "upright": "対立、代償の大きい勝利、利己心",
+      "reversed": "対立の後始末、和解の難しさ",
+      "url": "https://www.unmei-tarot.com/ja/articles/five-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "six-of-swords",
+    "en": {
+      "name": "Six of Swords",
+      "upright": "Transition, distance, accepting help",
+      "reversed": "Stuck in place, carrying an old problem forward",
+      "url": "https://www.unmei-tarot.com/en/articles/six-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードの6",
+      "upright": "移行、距離を取る、助けを借りて進む",
+      "reversed": "移れない、問題を持ち越す",
+      "url": "https://www.unmei-tarot.com/ja/articles/six-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "seven-of-swords",
+    "en": {
+      "name": "Seven of Swords",
+      "upright": "Secrecy, strategy, avoiding a direct answer",
+      "reversed": "A secret exposed, changing your approach",
+      "url": "https://www.unmei-tarot.com/en/articles/seven-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードの7",
+      "upright": "策略、秘密、正面から向き合わない",
+      "reversed": "隠し事の露見、やり方を改める",
+      "url": "https://www.unmei-tarot.com/ja/articles/seven-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "eight-of-swords",
+    "en": {
+      "name": "Eight of Swords",
+      "upright": "Feeling trapped, limits, assumptions",
+      "reversed": "Seeing an opening, finding room to act",
+      "url": "https://www.unmei-tarot.com/en/articles/eight-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードの8",
+      "upright": "制約、身動きの取れなさ、思い込み",
+      "reversed": "制約に気づく、動ける道を見つける",
+      "url": "https://www.unmei-tarot.com/ja/articles/eight-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "nine-of-swords",
+    "en": {
+      "name": "Nine of Swords",
+      "upright": "Anxiety, regret, a restless night",
+      "reversed": "Speaking about fear, distress that lingers",
+      "url": "https://www.unmei-tarot.com/en/articles/nine-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードの9",
+      "upright": "不安、後悔、考え込む夜",
+      "reversed": "不安を話し始める、苦悩が長引く",
+      "url": "https://www.unmei-tarot.com/ja/articles/nine-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "ten-of-swords",
+    "en": {
+      "name": "Ten of Swords",
+      "upright": "A painful ending, reaching a limit",
+      "reversed": "Passing the worst point, beginning to recover",
+      "url": "https://www.unmei-tarot.com/en/articles/ten-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードの10",
+      "upright": "限界、痛みを伴う終わり",
+      "reversed": "最悪期を抜ける、立て直しの始まり",
+      "url": "https://www.unmei-tarot.com/ja/articles/ten-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "page-of-swords",
+    "en": {
+      "name": "Page of Swords",
+      "upright": "Observation, gathering facts, caution",
+      "reversed": "Suspicion, gossip, careless words",
+      "url": "https://www.unmei-tarot.com/en/articles/page-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードのペイジ〈従者〉",
+      "upright": "観察、情報収集、警戒",
+      "reversed": "疑いすぎ、噂、言葉の未熟さ",
+      "url": "https://www.unmei-tarot.com/ja/articles/page-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "knight-of-swords",
+    "en": {
+      "name": "Knight of Swords",
+      "upright": "Quick thinking, directness, debate",
+      "reversed": "Jumping to conclusions, aggression, forcing an issue",
+      "url": "https://www.unmei-tarot.com/en/articles/knight-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードのナイト〈騎士〉",
+      "upright": "素早い判断、直進、議論する力",
+      "reversed": "早合点、攻撃的な言葉、強行",
+      "url": "https://www.unmei-tarot.com/ja/articles/knight-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "queen-of-swords",
+    "en": {
+      "name": "Queen of Swords",
+      "upright": "Independence, clear judgment, healthy boundaries",
+      "reversed": "Harsh criticism, coldness, shutting down",
+      "url": "https://www.unmei-tarot.com/en/articles/queen-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードのクイーン〈女王〉",
+      "upright": "自立、明晰さ、必要な線引き",
+      "reversed": "批判の強さ、冷淡、傷から心を閉ざす",
+      "url": "https://www.unmei-tarot.com/ja/articles/queen-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "king-of-swords",
+    "en": {
+      "name": "King of Swords",
+      "upright": "Reason, fairness, sound expertise",
+      "reversed": "Using logic to dominate, biased judgment",
+      "url": "https://www.unmei-tarot.com/en/articles/king-of-swords-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ソードのキング〈王〉",
+      "upright": "理性、公正な判断、専門性",
+      "reversed": "理屈で支配する、偏った判断、冷酷さ",
+      "url": "https://www.unmei-tarot.com/ja/articles/king-of-swords-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "ace-of-pentacles",
+    "en": {
+      "name": "Ace of Pentacles",
+      "upright": "A practical opportunity, a solid beginning",
+      "reversed": "Missed opportunity, poor preparation",
+      "url": "https://www.unmei-tarot.com/en/articles/ace-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルのエース〈A〉",
+      "upright": "現実的な機会、成果の種、基盤",
+      "reversed": "機会を生かせない、条件や準備の不足",
+      "url": "https://www.unmei-tarot.com/ja/articles/ace-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "two-of-pentacles",
+    "en": {
+      "name": "Two of Pentacles",
+      "upright": "Flexibility, juggling priorities, adaptation",
+      "reversed": "Too much to manage, muddled priorities",
+      "url": "https://www.unmei-tarot.com/en/articles/two-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルの2",
+      "upright": "両立、やりくり、柔軟な調整",
+      "reversed": "抱えすぎ、優先順位の混乱",
+      "url": "https://www.unmei-tarot.com/ja/articles/two-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "three-of-pentacles",
+    "en": {
+      "name": "Three of Pentacles",
+      "upright": "Teamwork, skill recognized, shared effort",
+      "reversed": "Weak coordination, lack of skill, going alone",
+      "url": "https://www.unmei-tarot.com/en/articles/three-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルの3",
+      "upright": "協力、技能を認められる、共同作業",
+      "reversed": "連携不足、技量の不足、独断",
+      "url": "https://www.unmei-tarot.com/ja/articles/three-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "four-of-pentacles",
+    "en": {
+      "name": "Four of Pentacles",
+      "upright": "Saving, protecting what you have, security",
+      "reversed": "Holding on too tightly, loosening control",
+      "url": "https://www.unmei-tarot.com/en/articles/four-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルの4",
+      "upright": "守る、蓄える、手放したくない",
+      "reversed": "抱え込みの強まり、管理を緩める必要",
+      "url": "https://www.unmei-tarot.com/ja/articles/four-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "five-of-pentacles",
+    "en": {
+      "name": "Five of Pentacles",
+      "upright": "Hardship, exclusion, support out of reach",
+      "reversed": "Finding help, recovery from scarcity",
+      "url": "https://www.unmei-tarot.com/en/articles/five-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルの5",
+      "upright": "不足、孤立、支えが届いていない",
+      "reversed": "援助への接点、不足からの回復",
+      "url": "https://www.unmei-tarot.com/ja/articles/five-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "six-of-pentacles",
+    "en": {
+      "name": "Six of Pentacles",
+      "upright": "Generosity, support, balanced exchange",
+      "reversed": "Strings attached, unequal giving and receiving",
+      "url": "https://www.unmei-tarot.com/en/articles/six-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルの6",
+      "upright": "援助、分かち合う、授受の釣り合い",
+      "reversed": "見返りを求める、貸し借りの不均衡",
+      "url": "https://www.unmei-tarot.com/ja/articles/six-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "seven-of-pentacles",
+    "en": {
+      "name": "Seven of Pentacles",
+      "upright": "Reviewing progress, patience, assessing results",
+      "reversed": "Effort not paying off, impatience, revising the plan",
+      "url": "https://www.unmei-tarot.com/en/articles/seven-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルの7",
+      "upright": "経過を見直す、成果を待つ、評価",
+      "reversed": "労力に見合わない、焦り、方法の再検討",
+      "url": "https://www.unmei-tarot.com/ja/articles/seven-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "eight-of-pentacles",
+    "en": {
+      "name": "Eight of Pentacles",
+      "upright": "Practice, diligence, building expertise",
+      "reversed": "Cutting corners, monotony, losing the purpose",
+      "url": "https://www.unmei-tarot.com/en/articles/eight-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルの8",
+      "upright": "練習、勤勉、技能の積み重ね",
+      "reversed": "手抜き、単調さ、目的を見失う",
+      "url": "https://www.unmei-tarot.com/ja/articles/eight-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "nine-of-pentacles",
+    "en": {
+      "name": "Nine of Pentacles",
+      "upright": "Independence, enjoying what you have built",
+      "reversed": "Dependence, appearances, fear of losing comfort",
+      "url": "https://www.unmei-tarot.com/en/articles/nine-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルの9",
+      "upright": "自立、実り、余裕を味わう",
+      "reversed": "依存、見栄、得たものへの不安",
+      "url": "https://www.unmei-tarot.com/ja/articles/nine-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "ten-of-pentacles",
+    "en": {
+      "name": "Ten of Pentacles",
+      "upright": "Lasting security, family resources, legacy",
+      "reversed": "Unsteady foundations, family or workplace pressure",
+      "url": "https://www.unmei-tarot.com/en/articles/ten-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルの10",
+      "upright": "長く続く基盤、家族の財産、継承",
+      "reversed": "基盤の不安定さ、家族や組織のしがらみ",
+      "url": "https://www.unmei-tarot.com/ja/articles/ten-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "page-of-pentacles",
+    "en": {
+      "name": "Page of Pentacles",
+      "upright": "Learning, careful preparation, a concrete plan",
+      "reversed": "Procrastination, failing to use what you learn",
+      "url": "https://www.unmei-tarot.com/en/articles/page-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルのペイジ〈従者〉",
+      "upright": "学び、地道な準備、具体的な計画",
+      "reversed": "先延ばし、学びを生かせない",
+      "url": "https://www.unmei-tarot.com/ja/articles/page-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "knight-of-pentacles",
+    "en": {
+      "name": "Knight of Pentacles",
+      "upright": "Reliability, consistency, follow-through",
+      "reversed": "Stagnation, stubbornness, resisting change",
+      "url": "https://www.unmei-tarot.com/en/articles/knight-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルのナイト〈騎士〉",
+      "upright": "誠実な継続、着実さ、責任",
+      "reversed": "停滞、頑固、変化を避ける",
+      "url": "https://www.unmei-tarot.com/ja/articles/knight-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "queen-of-pentacles",
+    "en": {
+      "name": "Queen of Pentacles",
+      "upright": "Practical care, comfort, tending daily needs",
+      "reversed": "Taking on too much, insecurity about stability",
+      "url": "https://www.unmei-tarot.com/en/articles/queen-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルのクイーン〈女王〉",
+      "upright": "暮らしを整える、実際的な思いやり",
+      "reversed": "世話の抱えすぎ、生活への不安",
+      "url": "https://www.unmei-tarot.com/ja/articles/queen-of-pentacles-tarot-card-meaning"
+    }
+  },
+  {
+    "id": "king-of-pentacles",
+    "en": {
+      "name": "King of Pentacles",
+      "upright": "Steady success, capable management, security",
+      "reversed": "Materialism, possessiveness, profit above all",
+      "url": "https://www.unmei-tarot.com/en/articles/king-of-pentacles-tarot-card-meaning"
+    },
+    "ja": {
+      "name": "ペンタクルのキング〈王〉",
+      "upright": "堅実な成功、管理能力、信頼できる基盤",
+      "reversed": "損得への執着、物質偏重、支配",
+      "url": "https://www.unmei-tarot.com/ja/articles/king-of-pentacles-tarot-card-meaning"
+    }
+  }
+]

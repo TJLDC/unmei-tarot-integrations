@@ -1,0 +1,11 @@
+{
+  "name": "unmei-tarot",
+  "owner": { "name": "Unmei Tarot", "url": "https://www.unmei-tarot.com/en" },
+  "plugins": [
+    {
+      "name": "unmei-tarot",
+      "source": "./",
+      "description": "A tarot reading guide for framing questions, choosing spreads, and reading cards."
+    }
+  ]
+}

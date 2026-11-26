@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TJLDC/unmei-tarot-mcp",
+  "title": "Unmei Tarot",
+  "description": "Draw tarot cards and look up 78 Rider–Waite–Smith meanings in Japanese or English.",
+  "websiteUrl": "https://www.unmei-tarot.com/en",
+  "repository": { "url": "https://github.com/TJLDC/unmei-tarot-integrations", "source": "github" },
+  "version": "0.1.0",
+  "packages": [
+    { "registryType": "npm", "identifier": "unmei-tarot-mcp", "version": "0.1.0", "transport": { "type": "stdio" } }
+  ]
+}

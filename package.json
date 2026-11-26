@@ -1,0 +1,20 @@
+{
+  "name": "unmei-tarot-mcp",
+  "version": "0.1.0",
+  "description": "Draw tarot cards and look up Rider–Waite–Smith meanings in Japanese or English.",
+  "homepage": "https://www.unmei-tarot.com/en",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TJLDC/unmei-tarot-integrations.git"
+  },
+  "mcpName": "io.github.TJLDC/unmei-tarot-mcp",
+  "keywords": ["mcp", "tarot", "rider-waite-smith", "unmei-tarot"],
+  "type": "module",
+  "bin": { "unmei-tarot-mcp": "./server.mjs" },
+  "files": ["server.mjs", "cards.json"],
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@modelcontextprotocol/server": "^2.4.0",
+    "zod": "^4.0.0"
+  }
+}
