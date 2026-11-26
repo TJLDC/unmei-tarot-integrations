@@ -14,6 +14,8 @@ Use the skill to turn a broad question into a reading, choose a spread, or inter
 
 The stdio server runs locally on Node.js 20+. It needs no account, API key or hosted endpoint. It works offline after installation.
 
+Clients that support the MCP Bundle format can download the [v0.1.0 bundle](https://github.com/TJLDC/unmei-tarot-integrations/releases/download/v0.1.0/unmei-tarot-mcp-0.1.0.mcpb). To configure the server manually, clone the repository and use the settings below.
+
 ```sh
 git clone https://github.com/TJLDC/unmei-tarot-integrations.git
 cd unmei-tarot-integrations

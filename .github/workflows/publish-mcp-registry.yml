@@ -1,0 +1,38 @@
+name: Publish to MCP Registry
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  publish:
+    if: github.ref == 'refs/heads/main' && github.repository == 'TJLDC/unmei-tarot-integrations'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          persist-credentials: false
+      - name: Download pinned MCP publisher
+        run: |
+          set -euo pipefail
+          archive=mcp-publisher_linux_amd64.tar.gz
+          curl --fail --location --silent --show-error --output "$RUNNER_TEMP/$archive" \
+            "https://github.com/modelcontextprotocol/registry/releases/download/v1.8.16/$archive"
+          echo "6e2f799550cf843c6fd3350498d56cc49be3dc0af1e6237eb0e6435c7a9d5c05  $RUNNER_TEMP/$archive" | sha256sum --check
+          tar -xzf "$RUNNER_TEMP/$archive" -C "$RUNNER_TEMP" mcp-publisher
+      - name: Verify public MCP bundle
+        run: |
+          set -euo pipefail
+          url=$(jq -er '.packages[] | select(.registryType == "mcpb") | .identifier' server.json)
+          digest=$(jq -er '.packages[] | select(.registryType == "mcpb") | .fileSha256' server.json)
+          curl --fail --location --silent --show-error --output "$RUNNER_TEMP/server.mcpb" "$url"
+          echo "$digest  $RUNNER_TEMP/server.mcpb" | sha256sum --check
+          "$RUNNER_TEMP/mcp-publisher" validate
+      - name: Publish with GitHub OIDC
+        run: |
+          set -euo pipefail
+          "$RUNNER_TEMP/mcp-publisher" login github-oidc
+          "$RUNNER_TEMP/mcp-publisher" publish
