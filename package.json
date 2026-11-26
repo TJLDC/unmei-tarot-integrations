@@ -10,7 +10,8 @@
   "mcpName": "io.github.TJLDC/unmei-tarot-mcp",
   "keywords": ["mcp", "tarot", "rider-waite-smith", "unmei-tarot"],
   "type": "module",
-  "bin": { "unmei-tarot-mcp": "./server.mjs" },
+  "bin": { "unmei-tarot-mcp": "server.mjs" },
+  "license": "MIT",
   "files": ["server.mjs", "cards.json"],
   "engines": { "node": ">=20" },
   "dependencies": {

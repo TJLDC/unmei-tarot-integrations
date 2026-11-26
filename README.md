@@ -43,3 +43,7 @@ Results include links to the relevant card entries or reading page. The server d
 Browse the reference guides in [English](https://www.unmei-tarot.com/en/tarot-card-meanings) or [日本語](https://www.unmei-tarot.com/ja/tarot-card-ichiran).
 
 For paper journaling, download the [Japanese three-card tarot worksheet](https://github.com/TJLDC/unmei-tarot-integrations/tree/main/printables#readme).
+
+## License
+
+The files in this repository, including the Skill, MCP server, card descriptions, and journal templates, are available under the [MIT License](LICENSE).
