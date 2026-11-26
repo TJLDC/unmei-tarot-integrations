@@ -1,8 +1,0 @@
-{
-  "name": "unmei-tarot",
-  "version": "0.1.0",
-  "description": "Choose a tarot spread, frame your question, and read the cards in context.",
-  "author": { "name": "Unmei Tarot", "url": "https://www.unmei-tarot.com/en" },
-  "homepage": "https://www.unmei-tarot.com/en",
-  "repository": "https://github.com/TJLDC/unmei-tarot-integrations"
-}

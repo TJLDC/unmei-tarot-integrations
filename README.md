@@ -10,13 +10,6 @@ npx skills add TJLDC/unmei-tarot-integrations --skill tarot-reading-guide
 
 Use the skill to turn a broad question into a reading, choose a spread, or interpret cards you've drawn.
 
-For Claude Code, add the marketplace and install the guide:
-
-```text
-/plugin marketplace add TJLDC/unmei-tarot-integrations
-/plugin install unmei-tarot@unmei-tarot
-```
-
 ## MCP server
 
 The stdio server runs locally on Node.js 20+. It needs no account, API key or hosted endpoint. It works offline after installation.
