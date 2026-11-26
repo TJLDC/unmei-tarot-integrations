@@ -8,15 +8,21 @@
     "url": "https://github.com/TJLDC/unmei-tarot-integrations",
     "source": "github"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packages": [
     {
       "registryType": "mcpb",
-      "identifier": "https://github.com/TJLDC/unmei-tarot-integrations/releases/download/v0.1.0/unmei-tarot-mcp-0.1.0.mcpb",
-      "fileSha256": "4b82bf4fac5f38abb5f2de12720f5cde1cda963b00f3ea00c135a9e842ebed9f",
+      "identifier": "https://github.com/TJLDC/unmei-tarot-integrations/releases/download/v0.1.1/unmei-tarot-mcp-0.1.1.mcpb",
+      "fileSha256": "9401866659370d6c13fb91b67308d5127b72e60234dd1effb2232645a7f34047",
       "transport": {
         "type": "stdio"
       }
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.unmei-tarot.com/api/mcp"
     }
   ]
 }

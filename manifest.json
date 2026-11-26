@@ -2,7 +2,7 @@
   "manifest_version": "0.3",
   "name": "unmei-tarot-mcp",
   "display_name": "Unmei Tarot",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Draw tarot cards and look up 78 Rider–Waite–Smith meanings in Japanese or English.",
   "author": {"name": "Unmei Tarot", "url": "https://www.unmei-tarot.com/en"},
   "homepage": "https://www.unmei-tarot.com/en",

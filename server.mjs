@@ -36,7 +36,14 @@ function response(data, isError = false) {
 function createServer() {
   const server = new McpServer(
     { name: 'unmei-tarot', version, websiteUrl: `${origin}/en` },
-    { instructions: 'Use the meanings as reference. The optional reading URLs open Unmei Tarot in a browser.' },
+    {
+      instructions: 'Use the meanings as reference. The optional reading URLs open Unmei Tarot in a browser.',
+      // We expose no resources or prompts, but directory scanners (Smithery and
+      // others) probe resources/list and prompts/list and log an error against the
+      // whole server when they get "Method not found". Declaring the capabilities
+      // makes McpServer answer those methods with empty lists instead.
+      capabilities: { resources: { listChanged: false }, prompts: { listChanged: false } },
+    },
   );
 
   server.registerTool('lookup_tarot_card', {
